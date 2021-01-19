@@ -22,6 +22,16 @@ Para validarmos o desafio, escreva o tutorial no **README** do seu projeto no **
 
 ## O que vai ser avaliado
 
+### Critérios de qualidade do exemplo de aplicação:
+
+- Código funcional sem erros;
+
+- Estética e organização do código;
+
+- Nomes intuitivos de variáveis;
+
+- Comentários explicativos do processo.
+
 ### Critérios de qualidade do texto:
 
 - Organização do documento;
@@ -33,16 +43,6 @@ Para validarmos o desafio, escreva o tutorial no **README** do seu projeto no **
 - Gramática e linguagem utilizada;
 
 - Uso de hiperlinks e referências.
-
-### Critérios de qualidade do exemplo de aplicação:
-
-- Código funcional sem erros;
-
-- Estética e organização do código;
-
-- Nomes intuitivos de variáveis;
-
-- Comentários explicativos do processo.
 
 ## Material para ajudar
 
